@@ -12,17 +12,17 @@ A list of stuff for Sketch.
 - [iOS Design Kit](https://iosdesignkit.io/ios-13-gui/)
 
 ## Inspiration
-- [www.dribbble.com](https://dribbble.com/)
-- [www.ui8.net](https://www.ui8.net/)
+- [dribbble.com](https://dribbble.com/)
+- [ui8.net](https://www.ui8.net/)
 
 ## Submit sketch files
 ###### Greate recources where you can submit your own sketch files or download other works
-- [www.sketchappsources.com](https://www.sketchappsources.com/)
-- [www.uplabs.com](https://www.uplabs.com/)
-- [www.freebiesketch.com](https://freebiesketch.com/)
-- [www.freeui.design](https://freeui.design/)
-- [www.sketchrepo.com](https://sketchrepo.com/)
-- [www.collectui.com](http://collectui.com/)
-- [www.freebiesui.com](https://freebiesui.com/)
+- [sketchappsources.com](https://www.sketchappsources.com/)
+- [uplabs.com](https://www.uplabs.com/)
+- [freebiesketch.com](https://freebiesketch.com/)
+- [freeui.design](https://freeui.design/)
+- [sketchrepo.com](https://sketchrepo.com/)
+- [collectui.com](http://collectui.com/)
+- [freebiesui.com](https://freebiesui.com/)
 
 
