@@ -14,6 +14,16 @@ A list of stuff for Sketch.
 ## Devices Mockup
 - [Facebook Devices](https://facebook.design/devices)
 
+## Plugins
+> A plugin manager like [Sketchpacks](https://sketchpacks.com) is highly recommended.
+
+###### Nice-to-have :thumbsup:
+- [Zeplin](https://zeplin.io/)
+- [Unsplash](https://www.sketch.com/extensions/plugins/unsplash/)(Easily grab images from Unsplash.)
+
+##### Get more plugins
+- [Sketch - Plugins](https://www.sketch.com/extensions/plugins/)
+
 ## Inspiration
 - [dribbble.com](https://dribbble.com/)
 - [ui8.net](https://www.ui8.net/)
