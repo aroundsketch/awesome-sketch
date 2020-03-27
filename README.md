@@ -49,6 +49,7 @@ A list of stuff for Sketch.
 ###### Palettes and Colors
 - [ColorBox](https://www.colorbox.io/)
 - [Flat UI Colors 2](https://flatuicolors.com/)
+- [Material UI Colors](https://materialuicolors.co/)
 
 ## UI Icons
 - [icons8](https://icons8.com/)(Free icons, photos, vectors)
