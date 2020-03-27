@@ -14,6 +14,13 @@ A list of stuff for Sketch.
 ## Devices Mockup
 - [Facebook Devices](https://facebook.design/devices)
 
+## Services
+- [Zeplin](https://zeplin.io) – design, prototyping and collaboration
+- [Marvel](https://marvelapp.com) - design, prototyping and collaboration
+- [Avocode](https://avocode.com) – get CSS, export assets, measure and handpick colors.
+- [Sympli](https://sympli.io)
+- [Abstract](https://www.goabstract.com/) - Version control and collaboration for Sketch files.
+
 ## Plugins
 > A plugin manager like [Sketchpacks](https://sketchpacks.com) is highly recommended.
 
@@ -37,5 +44,10 @@ A list of stuff for Sketch.
 - [sketchrepo.com](https://sketchrepo.com/)
 - [collectui.com](http://collectui.com/)
 - [freebiesui.com](https://freebiesui.com/)
+
+## Colors
+###### Palettes and 
+- [ColorBox](https://www.colorbox.io/)
+- [Flat UI Colors 2](https://flatuicolors.com/)
 
 
