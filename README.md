@@ -11,13 +11,9 @@ A list of stuff for Sketch.
 - [Apple Design Resources](https://developer.apple.com/design/resources/)
 - [iOS Design Kit](https://iosdesignkit.io/ios-13-gui/)
 
----
-
 ## Inspiration
 - [www.dribbble.com](https://dribbble.com/)
 - [www.ui8.net](https://www.ui8.net/)
-
----
 
 ## Submit sketch files
 ###### Greate recources where you can submit your own sketch files or download other works
