@@ -11,6 +11,9 @@ A list of stuff for Sketch.
 - [Apple Design Resources](https://developer.apple.com/design/resources/)
 - [iOS Design Kit](https://iosdesignkit.io/ios-13-gui/)
 
+## Devices Mockup
+- [Facebook Devices](https://facebook.design/devices)
+
 ## Inspiration
 - [dribbble.com](https://dribbble.com/)
 - [ui8.net](https://www.ui8.net/)
