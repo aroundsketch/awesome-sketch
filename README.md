@@ -46,8 +46,13 @@ A list of stuff for Sketch.
 - [freebiesui.com](https://freebiesui.com/)
 
 ## Colors
-###### Palettes and 
+###### Palettes and Colors
 - [ColorBox](https://www.colorbox.io/)
 - [Flat UI Colors 2](https://flatuicolors.com/)
+
+## UI Icons
+- [icons8](https://icons8.com/)(Free icons, photos, vectors)
+- [Ionicons](https://ionicons.com/)(Beautifully crafted open source icons)
+- [Font Awesome Icons](https://fontawesome.com/icons)(At the moment 7,842 Awesome Icons)
 
 
