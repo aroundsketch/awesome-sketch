@@ -57,3 +57,8 @@ A list of stuff for Sketch.
 - [Font Awesome Icons](https://fontawesome.com/icons)(At the moment 7,842 Awesome Icons)
 
 
+- [awesome-design-systems](https://github.com/alexpate/awesome-design-systems)(💅🏻 ⚒ A collection of awesome design systems
+)
+
+
+
