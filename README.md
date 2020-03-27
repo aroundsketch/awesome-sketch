@@ -16,7 +16,7 @@ A list of stuff for Sketch.
 - [ui8.net](https://www.ui8.net/)
 
 ## Submit sketch files
-###### Greate recources where you can submit your own sketch files or download other works
+###### Great resources where you can submit your own sketch files or download others work
 - [sketchappsources.com](https://www.sketchappsources.com/)
 - [uplabs.com](https://www.uplabs.com/)
 - [freebiesketch.com](https://freebiesketch.com/)
