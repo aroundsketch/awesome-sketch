@@ -58,8 +58,4 @@ A list of stuff for Sketch.
 
 
 ## Design systems
-- [awesome-design-systems](https://github.com/alexpate/awesome-design-systems)(💅🏻 ⚒ A collection of awesome design systems
-)
-
-
-
+- [awesome-design-systems](https://github.com/alexpate/awesome-design-systems) (💅🏻 ⚒ A collection of awesome design systems)
