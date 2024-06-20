@@ -26,7 +26,7 @@ A list of stuff for Sketch.
 
 ###### Nice-to-have :thumbsup:
 - [Zeplin](https://zeplin.io/)
-- [Unsplash](https://www.sketch.com/extensions/plugins/unsplash/)(Easily grab images from Unsplash.)
+- [Unsplash](https://www.sketch.com/extensions/plugins/unsplash/) (Easily grab images from Unsplash.)
 
 ##### Get more plugins
 - [Sketch - Plugins](https://www.sketch.com/extensions/plugins/)
@@ -52,9 +52,9 @@ A list of stuff for Sketch.
 - [Material UI Colors](https://materialuicolors.co/)
 
 ## UI Icons
-- [icons8](https://icons8.com/)(Free icons, photos, vectors)
-- [Ionicons](https://ionicons.com/)(Beautifully crafted open source icons)
-- [Font Awesome Icons](https://fontawesome.com/icons)(At the moment 7,842 Awesome Icons)
+- [icons8](https://icons8.com/) (Free icons, photos, vectors)
+- [Ionicons](https://ionicons.com/) (Beautifully crafted open source icons)
+- [Font Awesome Icons](https://fontawesome.com/icons) (At the moment 7,842 Awesome Icons)
 
 
 ## Design systems
